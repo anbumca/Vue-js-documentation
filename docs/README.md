@@ -7,10 +7,6 @@ Welcome to this training dedicated to Vue.js and its ecosystem :smiley:
 
 </div>
 
-::: tip
-This training is also available in [French](/fr/) / Cette formation est aussi disponible en [Français](/fr/)
-:::
-
 ## Prerequisites
 
 - Basic knowledge of JavaScript and a bit about Node.js

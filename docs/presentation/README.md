@@ -15,7 +15,6 @@ Vue.js was created originally by a single person, Evan You, a former Google engi
 
 The development of Vue and its ecosystem is guided by an international team of about thirty voluntary members. The team is spread all over the world, which helped to make the framework popular worldwide. Thus it is easy to have support no matter your timezone.
 
-![Core team](../assets/team.jpg)
 
 [https://vuejs.org/about/team.html](https://vuejs.org/about/team.html)
 
@@ -25,8 +24,6 @@ Unlike React or Angular which are respectively supported by Facebook and Google,
 
 However, this raises the issue of funding. Many contributors are volunteers, but as a response to the growing popularity of the framework, many have left their job or have gone part-time to work on Vue. To compensate, they rely on sponsorship and individual donations through services such as Patreon. Thanks to the success of the framework, Evan and his team now have enough financial support to work full time on Vue, but also to organize conferences around the world. And the sources of the donations are varied enough to preserve the independence of the framework.
 
-![Financing of Vue.js team](../assets/financement.jpg)
-
 [https://vuejs.org/sponsor/](https://vuejs.org/sponsor/)
 
 ## Popularity
@@ -35,13 +32,9 @@ Vue.js has broken records in terms of popularity since 2015. It is now the secon
 
 The secret of his success? A focus on simplicity, a very low learning curve, an excellent documentation and a listening community.
 
-![Github stars development between React, Vue and Angular](../assets/popularite.jpg)
-
 ## Comparison between the frameworks
 
 Let's try to compare Vue with the other two most popular JS frameworks, React and Angular.
-
-![React, Vue and Angular](../assets/react-vue-angular.jpg)
 
 ### Similarity between these 3 frameworks:
 
@@ -52,9 +45,6 @@ Let's try to compare Vue with the other two most popular JS frameworks, React an
 - Large ecosystem of components and tools
 
 ### Product positioning / self-description
-
-![Product positioning of React, Vue and Angular](../assets/autodescription.jpg)
-
 
 React, Vue and Angular position themselves in different categories, this can be observed from the first lines of their introduction. React is defined as a **library**, independent of the technical stack. Angular is defined as the one **framework** for all needs, desktop and mobile. While Vue is caught in the middle, defined as a **progressive framework**, versatile and **incrementally adoptable**. A perfect middle ground between a library and a fully equipped framework.
 
@@ -71,9 +61,6 @@ Stack |	Not self-sufficient, to combine with complete web stack. Rich ecosystem.
 *\* optional but highly recommended*
 
 ### Comparison in metaphor
-
-![React, Vue and Angular](../assets/react-vue-angular.jpg)
-![Metaphorical react, Vue and Angular](../assets/react-vue-angular-metaphore.jpg)
 
 <div class="cols">
 <div class="col">
