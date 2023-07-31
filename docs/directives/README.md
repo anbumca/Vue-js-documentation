@@ -19,7 +19,7 @@ Allows you to _bind_ an expression to the value of a property of an HTML element
 <template>
 <h1>
     I {{likesVue ? "love" : "hate"}}
-    <img src="" />
+    <img :src="logo" />
 </h1>
 </template>
 

@@ -4,34 +4,6 @@
 
 Vue *(pronounced /vjuː/, like view)* is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
 
-## History
-
-Vue.js was created originally by a single person, Evan You, a former Google engineer who used to work on Angular.js and later on the Meteor framework. After experimenting with a reactivity system that he thought was better than the one used in Angular.js, he decided to publish his first results in July 2013. Five years later, Vue.js is the third project on Github in number of stars and Evan holds one conference after the other around the world.
-
-![Evan You at VueConf](../assets/evanyou.jpg)
-
-
-## Development team
-
-The development of Vue and its ecosystem is guided by an international team of about thirty voluntary members. The team is spread all over the world, which helped to make the framework popular worldwide. Thus it is easy to have support no matter your timezone.
-
-
-[https://vuejs.org/about/team.html](https://vuejs.org/about/team.html)
-
-## Business model and funding
-
-Unlike React or Angular which are respectively supported by Facebook and Google, Vue.js is utterly independent and completely driven by the community. It is therefore the interests of the community that take precedence for steering the project and the technology roadmap to follow.
-
-However, this raises the issue of funding. Many contributors are volunteers, but as a response to the growing popularity of the framework, many have left their job or have gone part-time to work on Vue. To compensate, they rely on sponsorship and individual donations through services such as Patreon. Thanks to the success of the framework, Evan and his team now have enough financial support to work full time on Vue, but also to organize conferences around the world. And the sources of the donations are varied enough to preserve the independence of the framework.
-
-[https://vuejs.org/sponsor/](https://vuejs.org/sponsor/)
-
-## Popularity
-
-Vue.js has broken records in terms of popularity since 2015. It is now the second project in number of stars on Github. Despite the lack of funding, many meetups and conferences have been self-organized in different countries. This is one of the most resounding successes in the open-source world in the last five years.
-
-The secret of his success? A focus on simplicity, a very low learning curve, an excellent documentation and a listening community.
-
 ## Comparison between the frameworks
 
 Let's try to compare Vue with the other two most popular JS frameworks, React and Angular.

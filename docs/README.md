@@ -1,9 +1,12 @@
 # Welcome
 
 <div class="center">
+
+<img alt="Logo Vue.js" src="https://ok6static.oktacdn.com/fs/bco/1/fs0kgf53tqIYMzXG42p7" height="100" />
+<div>&</div> <br />
 <img alt="Logo Vue.js" src="./assets/vue.svg" height="100" />
 
-Welcome to this training dedicated to Vue.js and its ecosystem :smiley:
+Welcome to this training dedicated to Photon Loreal team :smiley:
 
 </div>
 
@@ -16,8 +19,6 @@ Welcome to this training dedicated to Vue.js and its ecosystem :smiley:
 ## Useful links
 
 - [Official Vue.js documentation](https://vuejs.org/v2/guide/)
-- [Github repository for this training](https://github.com/worldline/vuejs-training)
-- [Slides: Introduction to Vue.js - COTRECS octobre 2018](http://slides.com/sylvainpv/introduction-vuejs-10#/)
 
 ## Table of contents
 

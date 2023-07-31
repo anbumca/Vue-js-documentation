@@ -57,7 +57,7 @@ However, this usage quickly finds its limits, and the development tools that com
 
 You can use either **Vue 3** or **Vue 2** for this training.
 
-Get into your workspace and create a project called `search-films` by running the following command:
+Get into your workspace and create a project called `loreal-wsf-demo` by running the following command:
 
 <VueVersionSwitch slotKey="npm-init" />
 
@@ -73,12 +73,12 @@ npm init vue@2
 ```
 :::
 
-**search-films** being the name of the directory in which our project will be created.
+**loreal-wsf-demo** being the name of the directory in which our project will be created.
 
 Choose the following configuration:
 
 ```bash
-✔ Project name: search-films
+✔ Project name: loreal-wsf-demo
 ✔ Add TypeScript? No
 ✔ Add JSX Support? No
 ✔ Add Vue Router for Single Page Application development? No
@@ -88,7 +88,7 @@ Choose the following configuration:
 ✔ Add ESLint for code quality? ... Yes
 ✔ Add Prettier for code formatting? ... Yes
 
-Scaffolding project in ./search-films...
+Scaffolding project in ./loreal-wsf-demo...
 Done.
 ```
 
@@ -97,7 +97,7 @@ We recommend you use TypeScript for medium to large business applications, but i
 At the end of the installation, a folder has been created for your project. Navigate to the directory of your project and install the dependencies:
 
 ```bash
-cd search-films
+cd loreal-wsf-demo
 npm install
 ```
 
