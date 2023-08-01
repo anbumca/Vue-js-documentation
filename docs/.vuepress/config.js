@@ -5,14 +5,33 @@ module.exports = {
 			lang: "en-US", // this will be set as the lang attribute on <html>
 			title: "Loreal Training",
 			description: "Vue.js framework",
-		},
+		}
 	},
 
 	themeConfig: {
 		locales: {
 			"/": {
-				selectText: "Language",
+				selectText: "Languages",
 				label: "English",
+				sidebar: [
+					"/",
+					"/presentation/",
+					"/tooling/",
+					"/views/",
+					"/directives/",
+					"/components/",
+					"/reactivity/",
+					"/state/",
+					"/routing/",
+					"/http/",
+					"/tests/",
+					"/reusability/",
+					"/ecosystem/",
+				],
+			},
+			"/en/": {
+				selectText: "Language",
+				label: "English1",
 				sidebar: [
 					"/",
 					"/presentation/",
